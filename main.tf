@@ -10,7 +10,7 @@ terraform {
 # Configure the Artifactory provider
 provider "artifactory" {
   url           = "https://gouravrepo.jfrog.io/artifactory"
-  access_token  = "cmVmdGtuOjAxOjE3MDkyNDUwMDU6WnBkVmM0SUpRVVR4bWlMUklUcVFhTU80STZ2"
+  access_token  = "**************************************************************"
 }
 
 # Create a new repository
